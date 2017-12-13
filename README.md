@@ -13,3 +13,5 @@ crews can save a lot of time by eliminating labor intensive field work. Moreover
 gases in our atmosphere in different parts of cities. So, that quick action plans can be taken if air pollution levels near
 traffic intersections/busy roadways are exceeding the permissible levels. The versatility of our proposed design simplifies 
 overall land management by allowing the integration of geo-registered images with current GIS systems.  
+
+Video Presentantion: https://www.youtube.com/watch?v=nKmEE4vNXVc
